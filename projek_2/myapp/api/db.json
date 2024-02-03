@@ -1,0 +1,204 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Binus univeristy",
+      "description": "Universitas Bina Nusantara atau yang lebih dikenal sebagai BINUS University merupakan salah satu perguruan tinggi swasta terbaik di Indonesia. Bahkan, kampus ini menempati peringkat pertama universitas swasta terbaik versi QS WUR 2022 di Indonesia.Kampus ini dikenal sebagai kampus pencetak founder start-up unggulan di Indonesia. Bagaimana tidak? Nyatanya, para BINUSIAN–sebutan untuk mahasiswa dan alumni BINUS University–mayoritas merupakan founder start-up di banyak bidang bisnis. Sebut saja William Tanuwijaya yang merupakan CEO Tokopedia adalah alumni Jurusan Teknik Informatika BINUS tahun 1999. Ada pula Andrew Darwis yang merupakan pendiri Kaskus adalah alumni Jurusan Sistem Informasi BINUS tahun 1998.Jika minat kamu adalah di bidang teknik informatika dan bisnis, mungkin BINUS University adalah pilihan yang tepat.",
+      "imageUrl": "assets/Pojok Kampus - BINUS University.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2013-08-04T22:39:41.473Z",
+      "budget": "Rp20.000.000 per semester",
+      "isActive": false
+    },
+    {
+      "id": "2",
+      "name": "Telkom University",
+      "description": "Telkom University adalah Perguruan Tinggi Swasta yang diselenggarakan oleh Yayasan Pendidikan Telkom, dan merupakan penggabungan dari empat Perguruan Tinggi Swasta, yaitu institut Teknologi Telkom (IT Telkom), Institut Manajemen Telkom (IM Telkom), Politeknik Telkom, dan Sekolah Tinggi Seni Rupa dan Desain Indonesia Telkom (STISI Telkom).Kampus yang berlokasi di Bandung ini memiliki akreditasi UNGGUL dan menempati peringkat 1 Perguruan Tinggi Swasta (PTS) di Indonesia versi Kemenristekdikti, Webometrics, Times Higher Education World University Ranking, Science and Technology (SINTA), UniRank dan SCImago, serta mendapatkan pemeringkatan dunia QS untuk kategori Online Learning bintang 5.",
+      "imageUrl": "assets/telkom.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2016-06-26T18:24:01.706Z",
+      "budget": "Rp6.000.000-Rp20.000.000 per semester",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "name": "muhammadiyah yogyakarta university",
+      "description": "Universitas Muhammadiyah Yogyakarta adalah salah satu perguruan tinggi yang lahir karena didorong kesadaran bahwa pendidikan tinggi adalah tanggung jawab seluruh masyarakat Indonesia. Berdasarkan keputusan hasil musyawarah Muhammadiyah Wilayah DIY, Pimpinan Wilayah Muhammadiyah DIY mengeluarkan Surat Keterangan Nomor A-1/01.E/PW/1981 tanggal 26 Maret tentang berdirinya Universitas Muhammadiyah Yogyakarta. Saat ini, Universitas Muhammadiyah Yogyakarta (UMY) merupakan salah satu kampus swasta terbesar di Kota Yogyakarta.",
+      "imageUrl": "assets/263332_universitas-muhammadiyah-yogyakarta_1265_711.webp",
+      "contractTypeId": 1,
+      "contractSignedOn": "2013-05-26T01:10:42.344Z",
+      "budget": "Rp13.500.000 kisaran per semester",
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "name": "muhammadiyah malang university",
+      "description": "Universitas Muhammadiyah Malang (UMM) merupakan perguruan tinggi swasta yang didirikan tahun 1964 dan berada di bawah naungan Persyarikatan Muhammadiyah. Saat ini, UMM memiliki 62 program studi dalam beberapa jenjang pendidikan (vokasi, sarjana, magister, doktor, dan profesi).UMM sendiri telah meraih predikat Unggul pada akreditasi nasional dan memperoleh gelar Kampus Islam Terbaik Nomor 1 di Dunia versi UniRank Maret 2021.",
+      "imageUrl": "assets/malang.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2009-12-18T21:46:47.944Z",
+      "budget": "Rp5.300.000 per semester",
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "name": "muhammadiyah surakarta university",
+      "description": "Universitas Muhammadiyah Surakarta berdiri sejak tahun 1981. Universitas Muhammadiyah Surakarta (UMS) menjadi satu-satunya perguruan tinggi Muhammadiyah yang mampu menembus persaingan global (berdasarkan data QS World University Ranking)? Hal ini dibuktikan dengan masuknya UMS menjadi salah satu dari 400 top university di Asia bersama 16 perguruan tinggi lainnya di Indonesia.",
+      "imageUrl": "assets/surakarta.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2016-11-14T19:19:53.624Z",
+      "budget": "Rp6.000.000-Rp8.000.000 kisaran per-semester",
+      "isActive": true
+    },
+    {
+      "id": "6",
+      "name": "gunadarma university",
+      "description": "Beken dengan tempat belajar ilmu komputernya, Universitas Gunadarma yang berdiri pada 7 Agustus 1981 ini memang identik dengan ahli teknologi informasi. Kabarnya, banyak lulusan yang berhasil meraih karier cemerlang di perusahaan swasta, nasional maupun multinasional. Tak hanya mampu melahirkan para ahli IT, universitas ini pun mampu melahirkan ahli di bidang psikologi dan bahasa Inggris",
+      "imageUrl": "assets/gunadarma.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2015-03-05T17:00:16.696Z",
+      "budget": "Rp5.000.000 kisaran per-semester",
+      "isActive": false
+    },
+    {
+      "id": "7",
+      "name": "Nahdlatul Ulama Surabaya university",
+      "description": "Customer-focused composite implementation. Rerum ullam est voluptate hic eligendi autem rerum cum et.",
+      "imageUrl": "assets/Gedung Kuliah.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2015-04-14T19:46:53.146Z",
+      "budget": "Rp5.000.000 - Rp31.000.000 per semester",
+      "isActive": true
+    },
+    {
+      "id": "8",
+      "name": "Ahmad Dahlan yogyakarta university",
+      "description": "Universitas Ahmad Dahlan merupakan pengembangan dari Institut Keguruan dan Ilmu Pendidikan (IKIP) Muhammadiyah Yogyakarta. Kampus ini menyelenggarakan pendidikan akademik untuk jenjang diploma, sarjana, dan pascasarjana. Saat ini, Universitas Ahmad Dahlan memiliki 11 fakultas dengan lebih dari 50 pilihan program studi yang telah terakreditasi A dan B pada umumnya.",
+      "imageUrl": "assets/ahmaddahlan.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2011-10-16T08:07:32.217Z",
+      "budget": "Rp8.000.000 kisaran per semester",
+      "isActive": true
+    },
+    {
+      "id": "9",
+      "name": "islam sultan agung semarang university",
+      "description": "Universitas Islam Sultan Agung atau yang disingkat menjadi Unissula ini adalah salah satu Universitas swasta di Semarang yang telah terakreditasi oleh Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT). Jadi, bisa dibilang, kualitas Unissula ini tidak perlu diragukan lagi, lho! Mahasiswa Unissula banyak yang telah berprestasi dalam berbagai kejuaraan tingkat nasional. Selain itu, kampus ini juga menjalin kerja sama dengan berbagai universitas di luar negeri.",
+      "imageUrl": "assets/smrgislam.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2016-09-23T21:27:25.035Z",
+      "budget": "Rp3.850.000 - Rp26.500.000 per semester",
+      "isActive": false
+    },
+    {
+      "id": "10",
+      "name": "mercu buana univeristy",
+      "description": "Universitas Mercu Buana (UMB) adalah universitas swasta yang berdiri pada tanggal 22 Oktober 1985. Kampus ini telah meraih banyak prestasi sejak awal berdiri hingga sekarang. Terhitung bulan Desember 2016, Universitas Mercu Buana memperoleh Akreditasi Institusi Perguruan Tinggi (AIPT) dengan peringkat A atau Unggul dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT). Raihan ini merupakan salah satu tonggak pencapaian (milestone) kampus ini. Bahkan, salah satu program studinya yaitu Teknik Sipil berhasil mendapat akreditasi internasional oleh IABEE, lho. Nggak hanya itu, Universitas Mercu Buana juga berhasil masuk ke dalam Top 5 PTS Terbaik Nasional",
+      "imageUrl": "assets/mercu.jpg",
+      "contractTypeId": 4,
+      "contractSignedOn": "2016-04-02T02:40:48.906Z",
+      "budget": "Rp5.000.000 kisaran per-semester",
+      "isActive": false
+    },
+    {
+      "id": "11",
+      "name": "surabaya university",
+      "description": "Universitas Surabaya (UBAYA) merupakan pengembangan dari Universitas Trisakti Surabaya yang didirikan pada tahun 1966. Kemudian pada tahun 1968, nama Universitas Trisakti diganti menjadi Universitas Surabaya. Saat ini, UBAYA memiliki 9 fakultas dan 27 program studi. Selain itu, UBAYA meraih akreditasi A dan memiliki beberapa penghargaan bergengsi salah satunya adalah penghargaan Indonesia Green Award (IGA) kategori Green Campus 2016.",
+      "imageUrl": "assets/ubaya.jpg",
+      "contractTypeId": 2,
+      "contractSignedOn": "2009-11-20T04:57:43.124Z",
+      "budget": "Rp19.000.000 per semester",
+      "isActive": false
+    },
+    {
+      "id": "12",
+      "name": "islam indonesia university",
+      "description": "Universitas Islam Indonesia (UII) merupakan salah satu kampus swasta yang berlokasi di Yogyakarta yang berdiri pada 8 Juli 1945, satu bulan sebelum proklamasi Republik Indonesia. Pengalaman panjang tersebut, menjadikan UII sebagai pionir pendidikan tinggi di Indonesia yang berlandaskan pada nilai kebangsaan dan keislaman.UII dikenal sebagai kampus intelektual dengan akar yang kuat pada kebebasan akademik. Oleh karena itu, keberagaman pemikiran turut mendapatkan ruang apresiasi yang tinggi di kampus ini. Kualitas UII juga tidak perlu dipertanyakan lagi, karena telah terakreditasi Unggul dari BAN-PT, serta mendapatkan tiga bintang dari QS Asian University Rankings 2021.Selain itu, fasilitas berkelas dunia di tengah lingkungan yang asri sebagai Kampus Lestari siap menemani prosesmu dalam menjemput impian. ",
+      "imageUrl": "assets/islam.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2014-02-23T12:11:19.381Z",
+      "budget": "Rp10.000.000 - Rp15.000.000 per semester tergantung Program Studi",
+      "isActive": true
+    },
+    {
+      "id": "13",
+      "name": "muhammadiyah surabaya university",
+      "description": "Universitas Muhammadiyah Surabaya pada awalnya terdiri atas beberapa lembaga pendidikan tinggi Muhammadiyah, diantaranya Universitas Muhammadiyah Gresik, IKIP Muhammadiyah Surabaya, dan Institut Teknologi Muhammadiyah Surabaya. ",
+      "imageUrl": "assets/umssurabaya.Gedung.jpg",
+      "contractTypeId": 6,
+      "contractSignedOn": "2011-10-12T13:19:03.691Z",
+      "budget": "Rp4.700.000-Rp24.000.000 per semester",
+      "isActive": false
+    },
+    {
+      "id": "14",
+      "name": "dian nuswantoro semarang university",
+      "description": "Universitas Dian Nuswantoro adalah universitas swasta yang didirikan oleh Yayasan Dian Nuswantoro Semarang. Yayasan ini awalnya menaungi beberapa sekolah tinggi, yaitu Sekolah Tinggi Manajemen Informatika dan Komputer, Sekolah Tinggi Ilmu Ekonomi, Sekolah Tinggi Bahasa Asing, dan Sekolah Tinggi Kesehatan yang seluruhnya resmi bergabung menjadi Universitas Dian Nuswantoro pada tahun 1990. Dalam penggabungan tersebut, STMIK menjadi Fakultas Ilmu Komputer, STIE menjadi Fakultas Ekonomi, STBA menjadi Fakultas Bahasa dan Sastra, STKes menjadi Fakultas Kesehatan, dan ditambah satu fakultas baru yaitu Fakultas Teknik. Penggabungan sekolah tinggi di bawah naungan Yayasan Dian Nuswantoro ini juga didasari atas upaya untuk meningkatkan efisiensi dan kinerja kelembagaan, sehingga menjadi organisasi yang sehat dalam mengelola pendidikan.",
+      "imageUrl": "assets/udinus.jpg",
+      "contractTypeId": 3,
+      "contractSignedOn": "2014-08-19T07:03:27.419Z",
+      "budget": "Rp2.000.000 kisaran per-semester",
+      "isActive": false
+    },
+    {
+      "id": "15",
+      "name": "atma jaya yogyakarta univesity",
+      "description": "Pendirian Universitas Atma Jaya Yogyakarta digagas dan diawali oleh Pengurus Ikatan Sarjana Katolik (ISKAT) cabang Yogyakarta. Pada tanggal 13 Mei 1965, terbentuklah Yayasan Universitas Katolik Indonesia Atma Jaya Cabang Yogyakarta, yang sekarang menjadi Yayasan Slamet Rijadi Yogyakarta.Masih di tahun yang sama, 27 September 1965, di bawah lindungan Santo Albertus Magnus, kelahiran Universitas Katolik Indonesia Atma Jaya cabang Yogyakarta diresmikan. Sejak 31 Agustus 1973 Universitas Katolik Indonesia Atma Jaya cabang Yogyakarta melepaskan diri dari Universitas Katolik Indonesia Atma Jaya di Jakarta, dan berdiri sendiri sebagai Universitas Atma Jaya Yogyakarta.",
+      "imageUrl": "assets/at.jpg",
+      "contractTypeId": 7,
+      "contractSignedOn": "2015-12-23T01:00:34.527Z",
+      "budget": "Rp9.000.000 kisaran per-semester",
+      "isActive": true
+    },
+    {
+      "id": "16",
+      "name": "teknokrat indonesia university",
+      "description": "Di tengah mendunianya perkembangan digital dan teknologi, para mahasiswa Universitas Teknokrat Indonesia turut berperan aktif memberikan kontribusi berupa inovasi dan juga kreativitas. Beberapa prestasi pun diraih melalui kompetisi di bidang sains dan teknologi. Pada bulan November 2019 lalu, tim “Gajah Emas” UTI meraih juara 1 dalam acara Lomba Inovasi Digital Mahasiswa Nasional. Bukan hanya tingkat nasional saja, mahasiswa perwakilan UTI juga berhasil unjuk gigi dengan perolehan juara 3 pada event tingkat ASEAN, yaitu The 3rd ASEAN MATE Underwater Robot Competition. Pantas saja jika Universitas Teknokrat Indonesia mendapat penghargaan 'Teknologi Kreatif' oleh Kompas Gramedia Lampung Award 2019 atas inovasi dan kreativitas dalam pengembangan riset di bidang teknologi.",
+      "imageUrl": "assets/uti.jpg",
+      "contractTypeId": 5,
+      "contractSignedOn": "2017-02-16T12:28:52.794Z",
+      "budget": "Rp5.000.000 kisaran per-semester",
+      "isActive": false
+    },
+    {
+      "id": "17",
+      "name": "petra christian university",
+      "description": "Universitas Kristen Petra (UK Petra) merupakan salah satu kampus swasta terbaik di Indonesia dan telah mendapatkan akreditasi dari Badan Akreditasi Nasional (BAN PT) dengan nilai A. Kampus yang bertempat di Kota Surabaya ini memiliki delapan fakultas yang terdiri dari berbagai bidang keilmuan, mulai dari teknik, ekonomi, keguruan, hingga bidang seni.",
+      "imageUrl": "assets/uk.jpg",
+      "contractTypeId": 4,
+      "contractSignedOn": "2018-02-17T03:45:46.028Z",
+      "budget": "Rp6.000.000 - Rp22.000.000 per semester",
+      "isActive": true
+    },
+    {
+      "id": "18",
+      "name": "sanatha dharma sleman university",
+      "description": "Universitas Sanata Dharma (USD) telah berhasil meraih akreditasi perguruan tinggi swasta terbaik di Yogyakarta. USD yang berkembang dari IKIP Sanata Dharma ini memiliki delapan fakultas yang terdiri dari 23 program studi dengan empat di antaranya adalah program pascasarjana. Selain itu, terdapat juga dua program profesi dan program kursus bersertifikat. USD atau yang lebih dikenal dengan sebutan Sadhar ini siap memadukan keunggulan akademik dengan nilai-nilai kemanusiaan yang cerdas dan humanis.Universitas Sanata Dharma mendapatkan akreditasi A oleh BAN-PT dan termasuk perguruan tinggi dengan nilai tertinggi urutan ke-3 secara nasional",
+      "imageUrl": "assets/sd.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2011-02-27T11:56:25.464Z",
+      "budget": "Rp7.000.000 kisaran per semester",
+      "isActive": true
+    },
+    {
+      "id": "19",
+      "name": "katolik widya mandala surabaya university",
+      "description": "Universitas Katolik Widya Mandala Surabaya (UKWMS) merupakan universitas nasional yang telah berdiri sejak 20 September 1960. Kampus ini telah meraih beberapa penghargaan salah satunya Kampus Unggulan Lembaga Layanan Pendidikan Tinggi (LLDIKTI) Wilayah VII Jawa Timur. Untuk meningkatkan standar kualitas ke level internasional, UKWMS juga tergabung dalam ASEAN University Network-Quality Assurance (AUN-QA); Association of Southeast and East Asia Catholic College and Universities (ASEACCU), serta Association to Advance Collegiate Schools of Business. Program unggulan yang ditawarkan pun beragam seperti Joint Degree IBM – Solbridge School of Business (South Korea), Food Technology, Chemical Engineering, dan lain sebagainya. ",
+      "imageUrl": "assets/katol.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2014-07-20T03:49:52.933Z",
+      "budget": "Rp6.000.000 - Rp27.500.000 per semester  ",
+      "isActive": false
+    },
+    {
+      "id": "20",
+      "name": "katolik indonesia atma jaya",
+      "description": "Universitas Katolik Indonesia Atma Jaya Unika Atma Jaya merupakan salah satu Perguruan Tinggi Swasta terbaik se-Indonesia. Unika Atma Jaya mendapatkan akreditasi A dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT). Salah satu prestasi yang telah diraih yaitu masuk dalam daftar 50 Promising Indonesian Universities dari Direktorat Jenderal Pendidikan Tinggi (Ditjen Dikti). Selain itu, Unika Atma Jaya merupakan salah satu dari 17 Perguruan Tinggi Indonesia Terbaik Peringkat Asia versi Quacquarelli Symonds (QS) Asia University Rankings 2018. Pada tahun 2020, kampus ini juga meraih bintang lima untuk kategori Online Learning Pemeringkatan yang dilakukan oleh lembaga peringkat dunia berbasis di London, Quacquarelli Symonds (QS) Stars. Kini, Unika Atma Jaya memiliki 3 lokasi yaitu Kampus 1 Semanggi, Kampus 2 Pluit dan Kampus 3 BSD.",
+      "imageUrl": "assets/katolatma.jpg",
+      "contractTypeId": 1,
+      "contractSignedOn": "2014-02-17T09:09:54.542Z",
+      "budget": "Rp5.000.000-Rp15.000.000 per semester (Tergantung Program Studi)",
+      "isActive": false
+    }
+  ]
+}
